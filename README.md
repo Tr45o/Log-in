@@ -21,4 +21,4 @@ A Log in page is an essential component of any website or application that requi
 
 ## View My Project 
 
-You can view my Log in page project on GitHub [here]([https://tr45o.github.io/Log-In/](https://tr45o.github.io/Log-in/)). Feel free to explore the code and customize your own Log in page to suit your website or application needs!
+You can view my Log in page project on GitHub [here](https://tr45o.github.io/Log-in/). Feel free to explore the code and customize your own Log in page to suit your website or application needs!
